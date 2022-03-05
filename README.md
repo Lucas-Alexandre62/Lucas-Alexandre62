@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lucas Alexandre;
+- 👀 I’m interested in Python, Java, Javascript, Arduino, Raspberry, Network of Computers;
+- 🌱 I’m currently learning Python and Java but, i can programm with python.
