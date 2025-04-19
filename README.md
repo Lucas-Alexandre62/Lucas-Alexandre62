@@ -33,7 +33,9 @@ src="https://github-readme-stats.vercel.app/api?username=Lucas-Alexandre62&show_
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Alexandre62&theme=tokyonight&custom_title=Tecnologia&layout=compact"
  /> 
 </p>
-<br><br>
+
+
+
 ## Contato
 
 - **LinkedIn:** https://www.linkedin.com/in/lucas-alexandre-47a6672a0/
