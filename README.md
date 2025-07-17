@@ -35,7 +35,7 @@ src="https://github-readme-stats.vercel.app/api?username=Lucas-Alexandre62&show_
 </p>
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 ## Contato
 
 - **LinkedIn:** https://www.linkedin.com/in/lucas-alexandre-47a6672a0/
