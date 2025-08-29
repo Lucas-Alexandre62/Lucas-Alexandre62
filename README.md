@@ -1,42 +1,52 @@
-# Olá, eu sou o Lucas 👋
+# 👋 Olá, eu sou o Lucas Alexandre  
 
-## Sobre Mim
+🎓 **19 anos** | 💻 Estudante de **Análise e Desenvolvimento de Sistemas (EAD)**  
+🔧 Técnico em **Desenvolvimento de Sistemas**  
+📍 Brasil  
 
-- 🎓 **Idade:** 19 anos
-- 💻 **Curso Técnico:** Desenvolvimento de Sistemas
-- 📚 **Conhecimentos em Programação:** 
-  - Linguagens:<br>
+Sou apaixonado por tecnologia e atualmente focado em **desenvolvimento de sistemas**, com interesse em **back-end, programação de baixo nível** e **sistemas embarcados**.  
+Busco sempre aprender e praticar novas habilidades para me consolidar como desenvolvedor.  
+
+---
+
+## 🚀 Tecnologias & Ferramentas  
+
+### 💻 Linguagens  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- 🖥️ **Sistemas Operacionais:** 
-  - Windows
-  - Linux
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Atualmente, estou me aprofundando nas áreas de desenvolvimento de sistemas e programação. Tenho experiência com as linguagens Java e Python, e também com os sistemas operacionais Windows e Linux. Busco aprender constantemente e melhorar minhas habilidades técnicas para criar soluções inovadoras e eficientes.
+### 🛠️ Ferramentas & Banco de Dados  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Estatísticas
-<p>
-<img
-align="left"
-alt="GitHub Stats"
-Height="160"
-style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api?username=Lucas-Alexandre62&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-</p>
-<p>
-<img
- align="left"
- alt="GitHub Stats"
- Height="160"
- style="padding-right 10px"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Alexandre62&theme=tokyonight&custom_title=Tecnologia&layout=compact"
- /> 
+---
+
+## 📊 Estatísticas  
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Alexandre62&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Alexandre62&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
 </p>
 
+---
 
-<br><br><br><br><br><br>
-## Contato
+## 📌 Projetos Recentes  
 
-- **LinkedIn:** https://www.linkedin.com/in/lucas-alexandre-47a6672a0/
-- **Email:** lucas.a.melo2006@gmail.com
+- [📚 Study Routine](https://study-routine-six.vercel.app/) – Assistente simples para criar rotina de estudos (HTML, CSS, JS).  
+- [📂 Repositórios](https://github.com/Lucas-Alexandre62?tab=repositories) – Veja mais projetos públicos no meu perfil.  
+
+---
+
+## 📫 Contato  
+
+- **LinkedIn:** [Lucas Alexandre](https://www.linkedin.com/in/lucas-alexandre-47a6672a0/)  
+- **Email:** lucas.a.melo2006@gmail.com  
+
+---
