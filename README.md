@@ -13,7 +13,6 @@ Busco sempre aprender e praticar novas habilidades para me consolidar como desen
 
 ### 💻 Linguagens  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,6 +24,26 @@ Busco sempre aprender e praticar novas habilidades para me consolidar como desen
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🛤️ Roadmap de Aprendizado  
+
+### ✅ Já domino
+- Lógica de Programação  
+- Fundamentos de Java e Python  
+- Versionamento com Git e GitHub  
+- Fundamentos de HTML e CSS  
+
+### 📚 Atualmente estudando
+- **Java** para back-end  
+- **PostgreSQL** para banco de dados  
+- **Conceitos de redes e sistemas operacionais**  
+
+### 🎯 Próximos passos
+- **Desenvolvimento Web Back-end** (com foco em Java)  
+- **Programação de baixo nível** (C, C++, Assembly)  
+- **Sistemas Embarcados** (para área de defesa e indústria)  
 
 ---
 
